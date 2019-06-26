@@ -1,11 +1,11 @@
 {
   "logs": [
     {
+      "id": 1,
       "message": "Cleaned PC",
       "attention": true,
-      "tech": "Linda Hamilton",
-      "date": "2019-06-26T04:40:40.448Z",
-      "id": 1
+      "tech": "John Doe",
+      "date": "2019-06-26T05:17:48.893Z"
     },
     {
       "message": "Deleted disk",
@@ -37,6 +37,11 @@
       "id": 3,
       "firstName": "Tom",
       "lastName": "Cruise"
+    },
+    {
+      "firstName": "Johnny",
+      "lastName": "Cash",
+      "id": 4
     }
   ]
 }
