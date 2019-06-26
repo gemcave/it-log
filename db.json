@@ -1,5 +1,27 @@
 {
-  "logs": [],
+  "logs": [
+    {
+      "message": "Cleaned PC",
+      "attention": true,
+      "tech": "Linda Hamilton",
+      "date": "2019-06-26T04:40:40.448Z",
+      "id": 1
+    },
+    {
+      "message": "Deleted disk",
+      "attention": false,
+      "tech": "Tom Cruise",
+      "date": "2019-06-26T04:41:01.298Z",
+      "id": 2
+    },
+    {
+      "message": "New Log for test",
+      "attention": true,
+      "tech": "Tom Cruise",
+      "date": "2019-06-26T04:53:05.394Z",
+      "id": 3
+    }
+  ],
   "techs": [
     {
       "id": 1,
