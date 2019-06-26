@@ -1,27 +1,5 @@
 {
-  "logs": [
-    {
-      "id": 1,
-      "message": "Added new memory cards to server",
-      "attention": false,
-      "date": "01-04-2019",
-      "tech": "Linda Hamilton"
-    },
-    {
-      "id": 2,
-      "message": "Deleted old memory cards to server",
-      "attention": true,
-      "date": "01-04-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Configured server 007",
-      "attention": true,
-      "date": "03-04-2019",
-      "tech": "Tom Cruise"
-    }
-  ],
+  "logs": [],
   "techs": [
     {
       "id": 1,
